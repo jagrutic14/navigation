@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+
+            android:title="@string/title_home" />
+        <item
+            android:id="@+id/shopbycategories"
+
+            android:title="Shop By Categories" />
+        <item
+            android:id="@+id/myorders"
+
+            android:title="My Orders" />
+        <item
+            android:id="@+id/myaccount"
+
+            android:title="My Account" />
+        <item
+            android:id="@+id/offerszone"
+
+            android:title="Offers Zone" />
+
+        <item
+            android:id="@+id/changestore"
+
+            android:title="Change Store" />
+        <item
+            android:id="@+id/returnpolicy"
+
+            android:title="Return Policy" />
+        <item
+            android:id="@+id/logout"
+
+            android:title="Logout" />
+
+    </group>
+</menu>

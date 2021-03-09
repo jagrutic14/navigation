@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item name="navigation_Shop" type="id"/>
+    <item name="navigation_offers" type="id"/>
+    <item name="navigation_cart" type="id"/>
+    <item name="ChangeStore" type="id"/>
+    <item name="MyAccount" type="id"/>
+    <item name="MyOrders" type="id"/>
+    <item name="OffersZone" type="id"/>
+    <item name="ReturnPolicy" type="id"/>
+    <item name="Logout" type="id"/>
+</resources>
